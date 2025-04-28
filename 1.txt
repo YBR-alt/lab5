@@ -1,1 +1,1 @@
-["JavaScript", "Python", "C++", "Java", "Go", "Ruby"]
+["Java", "Python", "C#", "Java", "Go", "angliski"]
